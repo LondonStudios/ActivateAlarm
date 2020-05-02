@@ -1,0 +1,4 @@
+C:\Users\marcu\source\repos\ActivateAlarm\ActivateAlarm\obj\Debug\ActivateAlarm.csprojAssemblyReference.cache
+C:\Users\marcu\source\repos\ActivateAlarm\ActivateAlarm\obj\Debug\ActivateAlarm.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\ActivateAlarm\build\Client.net.dll
+C:\Users\marcu\source\repos\ActivateAlarm\ActivateAlarm\obj\Debug\Client.net.dll
