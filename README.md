@@ -1,3 +1,5 @@
+![ActivateAlarm Banner](https://i.ibb.co/zX2nRWw/Activate-Alarm.png)
+
 # ActivateAlarm
 A FiveM resource used to activate a custom alarm sound in an area coded in C#. This uses another resource called PlayCustomSounds, a standalone resource used to play external sounds.
 
