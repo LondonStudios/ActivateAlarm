@@ -15,6 +15,8 @@ To deactivate the alarm, use **/alarm.**
 3. In server.cfg, add "ensure activatealarm" or "start" if on an older server version.
 4. Ensure you have PlayCustomSounds installed on the server. Download [here](https://github.com/LondonStudios/PlayCustomSounds).
 
+![Discord Integration](https://i.imgur.com/EMR4gY9.png)
+
 ## PlayCustomSounds
 In the "Sound" folder in master, you will find the "alarm.ogg" file. This needs to be placed in html/sounds/ location in the PlayCustomSounds resource.
 
